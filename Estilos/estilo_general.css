@@ -7,7 +7,7 @@
     /**/
     -moz-box-sizing: border-box;
     /**/
-    box-sizing: border-box/**/
+    box-sizing: border-box;
 }
 
 .nada_marquesina{
@@ -58,9 +58,64 @@ header nav ul li {
 /*Edicion del Cuerpo de pagina*/
 
 body {
-    /*background-image: url("../imagenes/Pag/CV(2000x2000).png");*/
+    background-image: url("../imagenes/Pag/Strip5.jpg");
     background-color: #000;
+    background-attachment: fixed; /*para que sea estático*/
+    background-position: top right; /*arriba a la derecha*/
+    background-repeat: no-repeat;   /*que no se repita el fondo*/
+    background-size: 100%;
 }
+
+/*Inicio footer*/
+
+.footer {
+background-color: #222;
+-webkit-border-radius: 20px;
+border-radius: 20px;
+}
+
+ul.footer-nav {
+    display: inline-block;
+    float: none !important;
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul.footer-nav li:first-child {
+    margin-left: 0;
+}
+
+
+.alineacionFoot{
+    float: left;
+    margin-left: 15px;
+}
+
+ul.footer-nav li a {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+@media (max-width: 991px){
+.copyright-section {
+    text-align: center;
+}
+}
+
+.copyright-section {
+    padding: 15px 0;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    border-top: 1px solid rgba(255,255,255,.06);
+}
+
+/*Fin footer*/
+
 
 /*Estilos de la parte de las redes sociales*/
 
@@ -112,7 +167,14 @@ body {
     padding: 20px 15px 15px 15px;
     /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
 }
+
 .Margen {
     /*padding: 0px 20px 20px 20px;*/
     margin: 0px 20px 20px 20px;
+}
+
+
+/*Estilos de los modales*/
+.modal-content {
+  background-color:#222;
 }

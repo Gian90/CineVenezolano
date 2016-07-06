@@ -1,182 +1,58 @@
 <!-- Start Footer Section -->
-<footer>
-  <div class="container">
-    <div class="row footer-widgets">
+<footer class="footer">
+    <div class="container">
+        <div class="row footer-widgets">
 
-
-      <!-- Start Subscribe & Social Links Widget -->
-      <div class="col-md-4 col-xs-12">
-        <div class="footer-widget mail-subscribe-widget">
-          <h4>Unete a nuestra comunidad<span class="head-line"></span></h4>
-          <p>Join our mailing list to stay up to date and get notices about our new releases!</p>
-          <form class="subscribe">
-            <input type="text" placeholder="mail@example.com">
-            <input type="submit" class="btn-system" value="Enviar">
-          </form>
-        </div>
-        <div class="footer-widget social-widget">
-          <h4>Síguenos<span class="head-line"></span></h4>
-          <ul class="social-icons">
-            <li>
-              <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-            </li>
-            <li>
-              <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a class="instgram" href="#"><i class="fa fa-instagram"></i></a>
-            </li>
-            <li>
-              <a class="google" href="#"><i class="fa fa-google-plus"></i></a>
-            </li>
-            <li>
-              <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <!-- .col-md-3 -->
-      <!-- End Subscribe & Social Links Widget -->
-
-
-      <!-- Start  Widget -->
-      <div class="col-md-4 col-xs-12">
-        <div class="footer-widget twitter-widget">
-          <h4 class="classic-title"><span>Comentarios</span></h4>
-
-          <!-- Start Testimonials Carousel -->
-          <div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-            <!-- Testimonial 1 -->
-            <div class="classic-testimonials item">
-              <div class="testimonial-content">
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              </div>
-              <div class="testimonial-author"><span>John Doe</span> - Customer</div>
+            <div class="col-md-3">
+                <br/>
+                <p style="color: #4d3ec9;"><strong>Contacta a Nuestra Comunidad</strong></p>
+                <p style="color: #aaa1f4;">Envía tu nombre y una dirección para ponernos en contacto contigo!</p>
+                <form class="navbar-form navbar-right" role="search">
+                    <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModalEnv">
+                        <span>Enviar Datos</span>
+                    </button>
+                </form>
             </div>
-            <!-- Testimonial 2 -->
-            <div class="classic-testimonials item">
-              <div class="testimonial-content">
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              </div>
-              <div class="testimonial-author"><span>John Doe</span> - Customer</div>
+
+            <div class="col-md-4">
+                <br/>
+                <div class="item active">
+                    <img src="imagenes\Pag\map.png" width="323.33" height="176.99" class="img-responsive img-rounded center-block">
+                    <br/>
+                    <div class="carousel-caption">
+                        <h5 class="glyphicon glyphicon-earphone"><strong> Teléfono:</strong> +58-212-4074189</h5>
+                        <h5 class="glyphicon glyphicon-envelope"><strong> Correo:</strong> cicucab.ccs@gmail.com</h5>
+                    </div>
+                </div>
             </div>
-            <!-- Testimonial 3 -->
-            <div class="classic-testimonials item">
-              <div class="testimonial-content">
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              </div>
-              <div class="testimonial-author"><span>John Doe</span> - Customer</div>
+
+            <div class="col-md-2">
+                <a href="http://cic.ucab.edu.ve/" target="blank">
+                    <br/>
+                    <img src="imagenes\Pag\LogoCICpng2.png" width="161.66" height="154.77" class="img-responsive img-rounded center-block">
+                </a>
             </div>
-          </div>
+
+            <div class="col-md-3">
+                <a href="http://www.ucab.edu.ve/" target="blank">
+                    <br/>
+                    <img src="imagenes\Pag\ucab1.png" style="height:150;" class="img-responsive center-block">
+                </a>
+                <h6 style="color: #FFFFFF;">Av. Teherán, Montalbán. Parroquia La Vega</h6>
+                <h6 style="color: #FFFFFF;">Caracas - Venezuela RIF - J-00012255-5</h6>
+            </div>
+
         </div>
-      </div>
-          <!-- End Testimonials Carousel -->
 
-      <!-- .col-md-3 -->
-      <!-- End Twitter Widget -->
 
-<!--
-      <!-- Start Flickr Widget
-      <div class="col-md-3 col-xs-12">
-        <div class="footer-widget flickr-widget">
-          <h4>Galería<span class="head-line"></span></h4>
-          <ul class="flickr-list">
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-01.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-01.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-02.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-02.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-03.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-03.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-04.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-04.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-05.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-05.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-06.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-06.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-07.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-07.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-08.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-08.jpg'; ?>">
-              </a>
-            </li>
-            <li>
-              <a href="<?php echo getRootUri() . 'images/flickr-09.jpg'; ?>" class="lightbox">
-                <img alt="" src="<?php echo getRootUri() . 'images/flickr-09.jpg'; ?>">
-              </a>
-            </li>
-          </ul>
+        <!-- Start Copyright -->
+        <div class="container">
+            <div class="row copyright-section footer-nav">
+                <p style="color: #FFFFFF;">&copy; <strong>2016 SCRIPT CIC UCAB</strong> - TODOS LOS DERECHOS RESERVADOS. Caracas-Venezuela</p>
+            </div>
         </div>
-      </div>
-    -->
-
-      <!-- .col-md-3 -->
-      <!-- End Flickr Widget -->
-
-
-      <!-- Start Contact Widget -->
-      <div class="col-md-4 col-xs-12">
-        <div class="footer-widget contact-widget">
-          <h4><img src="<?php echo getRootUri() . 'images/logosJoincic/9nas-(72px).png'; ?>" class="img-responsive" alt="Footer Logo" /></h4>
-          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-          <ul>
-            <li><span>Teléfono:</span> +58 0123 456 78 91</li>
-            <li><span>Corre:</span> contacto@joinci.com.ve</li>
-            <li><span>Página Web:</span> www.joincic.com.ve</li>
-          </ul>
-        </div>
-      </div>
-      <!-- .col-md-3 -->
-      <!-- End Contact Widget -->
-
+        <!-- End Copyright -->
 
     </div>
-    <!-- .row -->
-
-    <!-- Start Copyright -->
-    <div class="copyright-section">
-      <div class="row">
-        <div class="col-md-6">
-          <p>&copy; <strong>9nas JOINCIC</strong> - Todos los derechos reservados</p>
-        </div>
-        <!-- .col-md-6 -->
-        <div class="col-md-6">
-          <ul class="footer-nav">
-            <li><a href="#">Mapa del Sitio</a>
-            </li>
-            <li><a href="#">Politicas de Privacidad</a>
-            </li>
-            <li><a href="#">Contacto</a>
-            </li>
-          </ul>
-        </div>
-        <!-- .col-md-6 -->
-      </div>
-      <!-- .row -->
-    </div>
-    <!-- End Copyright -->
-
-  </div>
 </footer>
 <!-- End Footer Section -->

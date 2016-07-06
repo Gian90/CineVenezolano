@@ -1,16 +1,16 @@
-<?php 
+<?php
 function conectar($q)
 {
-	
+
 		$conexion = mysql_connect("localhost", "root","123");
 		mysql_database("cic-cine",$conexion);
 		$query = mysql_query($q,$conexion);
 		mysql_query("COMMIT",$conexion);
 		mysql_close($conexion);
-		
+
 		return $query;
 		
-} 
+}
 
 function prueba_conexion()
 {

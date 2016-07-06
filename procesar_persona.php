@@ -1,4 +1,3 @@
-
 <?php 
 $primer_nombre = $_POST["Primer_Nombre"];
 $segundo_nombre = $_POST["Segundo_Nombre"];
@@ -19,39 +18,39 @@ echo '<a>biografia '.$biografia.'</a>';
 if(!$primer_nombre)
 {
 	$primer_nombre=NULL;
-	
+
 }
 
 
 if(!$segundo_nombre)
 {
 	$primer_nombre=NULL;
-	
+
 }
 
 if(!$primer_apellido)
 {
 	$primer_nombre=NULL;
-	
+
 }
 
 if(!$segundo_apellido)
 {
 	$primer_nombre=NULL;
-	
+
 }
 
 if(!$biografia)
 {
 	$primer_nombre=NULL;
-	
+
 }
 
 
 
 if ($_FILES["imagen_foto"]["error"] > 0){
 	echo "ha ocurrido un error";
-	
+
 } else {
 	//ahora vamos a verificar si el tipo de archivo es un tipo de imagen permitido.
 	//y que el tamano del archivo no exceda los 100kb
@@ -88,4 +87,4 @@ if ($_FILES["imagen_foto"]["error"] > 0){
 
 //conectar("insert into PERSONA('".$primer_nombre."','".$segundo_nombre."','".$primer_apellido."','".$segundo_apellido."','".$biografia."',NULL)")
 
-?> 
+?>
