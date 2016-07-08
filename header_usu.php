@@ -27,8 +27,8 @@
                 <div class="collapse navbar-collapse" id="BarraDeNavegacion">
                     <ul class="nav navbar-nav">
                         <li><a href="Busqueda_usu.php">Buscador</a></li>
-                        <li><a href="#">Noticias</a></li>
-                        <li><a href="#">Nosotros</a></li>
+                        <li><a href="Noticias_usu.php">Noticias</a></li>
+                        <li><a href="Nosotros_usu.php">Nosotros</a></li>
                     </ul>
 
                     <!-- Botones de registro y loging -->
