@@ -27,13 +27,59 @@
     </div>
 
     <!--_________________________________________________________________________________________________________________________________-->
-    <div class=" clearfix container">
-          <div class="col-md-3 col-sm-6 ">
-              <a href="Nosotros_usu.php" data-toggle="modal" data-target="#myModalImage">
-                  <img alt="Nena saludame al diego" src="imagenes/Poster/Nena-Salud.jpg" width="500" height="300" class="img-rounded">
-              </a>
+    <div class="container">
+        <div class="row">
+          <div class=" clearfix col-md-6">
+
+
           </div>
+          <!-- fin de la primera columna col-md-6 -->
+
+          <!-- Foto Del Equipo -->
+          <div class=" clearfix col-md-6">
+            <div class="panel panel-info" style="background-color:#292F33;">
+                <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
+                    <font color="#FFFFFF"><strong>¡Equipo CIC!</strong></font>
+                </div>
+                <div class="panel-body">
+                  <img src="imagenes\Pag\SCRIPT(300).png" style="height:150;" class="img-responsive img-rounded">
+
+                </div>
+                <!--  "panel-body  -->
+            </div>
+            <!--panel panel-info -->
+          </div>
+
+
+
+            <div class=" clearfix col-md-6">
+
+
+            </div>
+            <!-- fin de la primera columna col-md-6 -->
+
+            <!-- Contenedor del Mapa de Google -->
+            <div class=" clearfix col-md-6">
+              <!-- Inicio del panel panel-info -->
+              <div class="panel panel-info" style="background-color:#292F33;">
+                  <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
+                      <font color="#FFFFFF"><strong>¡Donde Estamos!</strong></font>
+                  </div>
+                  <!--  Inicio del panel-body  -->
+                  <div class="panel-body">
+                    <!-- Codigo del Mapa de Google -->
+                    <iframe width="100%" height="268" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15693.84792777164!2d-66.9758!3d10.4642!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x43cb2d8100a63708!2sUniversidad+Cat%C3%B3lica+Andr%C3%A9s+Bello!5e0!3m2!1ses!2sve!4v1468088657141" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                  </div>
+                  <!--  Final del panel-body  -->
+              </div>
+              <!-- Final del panel panel-info -->
+            </div>
+
+        </div>
+        <!--row -->
     </div>
+    <!--container -->
 
     <!--_________________________________________________________________________________________________________________________________-->
     <div class="container">

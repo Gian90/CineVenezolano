@@ -88,13 +88,10 @@
             <!-- Container del twitter -->
             <div class=" clearfix col-md-6">
               <!-- Este es todo el codigo script q contiene todas las opciones del twitter -->
-              <a class="twitter-timeline" data-lang="es" data-width="555" data-height="423" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/cic_ucab">Tweets by cic_ucab</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>            </div>
+              <a class="twitter-timeline" data-lang="es" data-width="555" data-height="423" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/cic_ucab">Tweets by cic_ucab</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
+        </div>
         <!--row -->
-
-
-
-
     </div>
     <!--container -->
 
