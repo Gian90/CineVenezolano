@@ -29,57 +29,62 @@
     <!--_________________________________________________________________________________________________________________________________-->
 
     <div class="container">
+
         <div class="row">
             <!--  row primero -->
 
             <div class=" col-md-4">
-            </div>
 
-            <div class=" col-md-4">
-              <h3 style="color: #FFFFFF;"><strong>TITULO PELICULA</strong></h3>
             </div>
-
             <div class=" col-md-4">
-                </br>
+                <a> TITULO DE LA PELICULA</a>
+            </div>
+            <div class=" col-md-4">
                 <button type="submit" class="btn btn-primary">Editar</button>
             </div>
 
+
+
+
+
         </div>
+        <!-- fin  row primero -->
     </div>
-
     </br>
-
     <div class="container">
         <!-- container segundo -->
 
         <div class="row">
             <!-- segundo row     -->
 
-            <div class="col-md-4">
+            <div class="col-md-6">
 
                 <img alt="http://placehold.it/150x100" src="http://placehold.it/200x250">
             </div>
 
             <div class="col-md-6">
                 <div class="row">
+                    <div class="col-md-4">
 
-                    <div class="col-md-1">
                     </div>
+                    <div class="col-md-4">
+                        <a> SIPNOSIS </a>
+                    </div>
+                    <div class="col-md-4">
 
-                    <div class="col-md-2">
-                      <h3 style="color: #FFFFFF;">Sinopsis</h3>
                     </div>
 
                 </div>
-
                 <div class="row">
                     <div class="col-md-12">
-                      <p style="color: #FFFFFF;">Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la pelicula</p>
+                        <a> aquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la imformancion de la sipsisaquiva toda la </a>
                     </div>
 
                 </div>
 
             </div>
+
+
 
         </div>
         <!-- fin segundo row     -->
@@ -88,14 +93,18 @@
             <!-- Tercer row     -->
 
             <div class="col-md-4">
-                <div class="thumbnail" style="background-color:#292F33;">
+                <div class="thumbnail">
 
                     <div class="caption">
-                        <h3 style="color: #FFFFFF;">FICHA TECNICA</h3>
-                        <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En este campo se reúnen los aspectos básicos que describen una producción cinematográfica, así como los nombres de las personas encargadas de cada uno tanto en los aspectos artísticos como técnicos, entre otros: director, productor, guionista, vestuarista, maquillador, etc.</p>
+                        <h3>FICHA TECNICA</h3>
+                        <p>Some sample text. Some sample text.</p>
 
                         <p>
-                            <a href="#" class="btn btn-primary" role="button">Ver</a>
+                            <a href="#" class="btn btn-primary" role="button">
+          EDITAR
+        </a>
+
+
                         </p>
 
                     </div>
@@ -104,14 +113,18 @@
             </div>
 
             <div class="col-md-4">
-                <div class="thumbnail" style="background-color:#292F33;">
+                <div class="thumbnail">
 
                     <div class="caption">
-                        <h3 style="color: #FFFFFF;">REPARTO</h3>
-                        <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En este campo se contempla o bien el elenco de actores que encarnan los personajes de un guión de ficción, o las personas cuyos testimonios narran o explican los aspectos de una historia narrada en un documental.</p>
+                        <h3>ACTORES</h3>
+                        <p>Some sample text. Some sample text.</p>
 
                         <p>
-                            <a href="#" class="btn btn-primary" role="button">Ver</a>
+                            <a href="#" class="btn btn-primary" role="button">
+          EDITAR
+        </a>
+
+
                         </p>
 
                     </div>
@@ -121,14 +134,18 @@
             </div>
             <div class="col-md-4">
 
-                <div class="thumbnail" style="background-color:#292F33;">
+                <div class="thumbnail">
 
                     <div class="caption">
-                        <h3 style="color: #FFFFFF;">DATA</h3>
-                        <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En este campo hay recopilada información relevante sobre la película, tanto desde el punto de vista de su factura (póster, foto fija, locaciones empleadas), como de su desempeño socio-económico (monto de inversión, cantidad de espectadores, recaudación en taquilla) o de su apreciación cinematográfica (crítica).</p>
+                        <h3>DATA</h3>
+                        <p>Some sample text. Some sample text.</p>
 
                         <p>
-                            <a href="#" class="btn btn-primary" role="button">Ver</a>
+                            <a href="#" class="btn btn-primary" role="button">
+         EDITAR
+        </a>
+
+
                         </p>
 
                     </div>
@@ -142,19 +159,30 @@
         <!-- fin  tercer row     -->
 
         <div class="row">
-            <div class="col-md-6">
-                <h3 style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em;"><strong>Imagen De La Pelicula</strong></h3>
-                <img class="img-responsive" alt="http://placehold.it/150x100" src="http://placehold.it/500x350">
-            </div>
-
-            <div class="col-md-6">
-              <h3 style="color: #FFFFFF;"><strong>Trailer De La Pelicula</strong></h3>
-              <iframe width="100%" height="338" src="http://www.youtube.com/embed/KgMt0dtr4Vc" frameborder="0" allowfullscreen></iframe>
+            <div class="container">
+                <img class="img-responsive" alt="http://placehold.it/150x100" src="http://placehold.it/1200x400">
             </div>
         </div>
         <br>
+        <div class="row">
+            <!-- cuarto row     -->
 
-   </div>
+            <div class="container">
+
+
+                <div class="row">
+
+                    <div class="col-md-12">
+                        <iframe width="100%" height="338" src="http://www.youtube.com/embed/KgMt0dtr4Vc" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <!-- fin  cuarto row     -->
+
+        </div>
         <!-- fin container segundo -->
         <!--_________________________________________________________________________________________________________________________________-->
         <div class="container">
@@ -163,13 +191,13 @@
             </div>
         </div>
 
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual
-        files as needed -->
+    files as needed -->
         <script src="bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
         <script src="bootstrap-3.3.5/dist/js/bootstrap-submenu.min.js"></script>
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="JavaScripts/jquery.min.js"></script>
-        <script src="JavaScripts/jquery-latest.js"></script>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
         <script src="JavaScripts/Main.js"></script>
         <script src="JavaScripts/jquery.js"></script>
         <script src="JavaScripts/Carrusel.js"></script>

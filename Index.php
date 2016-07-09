@@ -36,7 +36,7 @@
                         <font color="#FFFFFF"><strong>NOTICIAS</strong></font>
                     </div>
                     <div class="panel-body">
-                      <script language="javascript" type="text/javascript" src="http://rss.sindicacion.net/view_rss/b2Z4PXRydWU=/ZWJiPTI5MkYzMyZlYnQ9RkZGRkZGJmVmZj1WZXJkYW5hJTJDK0FyaWFsJTJDK3NhbnMtc2VyaWYmZWZzPTMmZWZ0PTE0JmV0Yj0yOTJGMzMmZXR0PTI5MkYzMyZldz01MDA=/aD1odHRwcyUzQSUyRiUyRm5ld3MuZ29vZ2xlLmNvbSUyRm5ld3MlM0ZxJTNEJTI1MjJjaW5lJTJCdmVuZXpvbGFubyUyNTIyJTJCJTI1N0MlMjU3QyUyQiUyNTIyY25hYyUyNTIyJTI2aGwlM0RlcyUyNmdsJTNEdmUlMjZhdXRodXNlciUzRDAlMjZ1bSUzRDElMjZpZSUzRFVURi04JTI2b3V0cHV0JTNEcnNz"></script>
+                      <script language="javascript" type="text/javascript" src="http://rss.sindicacion.net/view_rss/b2ZkPSZvZm09MjAmb2Z4PXRydWU=/ZWJiPTI5MkYzMyZlYnQ9YWFhMWY0JmVmcz0zJmVmdD0xNCZldGI9MjkyRjMzJmV0dD00ZDNlYzkmZXc9NDAw/aD1odHRwcyUzQSUyRiUyRmNpbmVkZXZlbmV6dWVsYTIwMTEud29yZHByZXNzLmNvbSUyRmZlZWQlMkY="></script><a href="http://rss.sindicacion.net/" style="padding:3px 0px 3px 8px;text-indent:-8px;font:14px Times New Roman, serif;color:#aaa1f4;">RSS</a>
 
                         <!--<div id="carousel-example-generic" class="carousel slide" data-ride="carousel_noticias">
                             <!-- Indicators
@@ -85,11 +85,23 @@
             </div>
             <!-- fin de la primera columna col-md-6 -->
 
-            <!-- Container del twitter -->
+
             <div class=" clearfix col-md-6">
-              <!-- Este es todo el codigo script q contiene todas las opciones del twitter -->
-              <a class="twitter-timeline" data-lang="es" data-width="555" data-height="423" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/cic_ucab">Tweets by cic_ucab</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>            </div>
+                <a class="twitter-timeline" data-theme="dark" data-link-color="#008080" href="https://twitter.com/cic_ucab" data-widget-id="657229786876628993">Tweets de @cic_ucab </a>
+                <script>
+                    ! function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0],
+                            p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + "://platform.twitter.com/widgets.js";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, "script", "twitter-wjs");
+                </script>
             </div>
+        </div>
         <!--row -->
 
 
@@ -104,13 +116,13 @@
         </div>
     </div>
 
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual
     files as needed -->
     <script src="bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
     <script src="bootstrap-3.3.5/dist/js/bootstrap-submenu.min.js"></script>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="JavaScripts/jquery.min.js"></script>
-    <script src="JavaScripts/jquery-latest.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="JavaScripts/Main.js"></script>
     <script src="JavaScripts/jquery.js"></script>
     <script src="JavaScripts/Carrusel.js"></script>
