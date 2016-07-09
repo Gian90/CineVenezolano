@@ -175,6 +175,7 @@
     files as needed -->
     <script src="bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
     <script src="bootstrap-3.3.5/dist/js/bootstrap-submenu.min.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="JavaScripts/Main.js"></script>
     <script src="JavaScripts/jquery.js"></script>
@@ -188,9 +189,6 @@
         });
         //]]>
     </script>
-
-
-
 
 </body>
 

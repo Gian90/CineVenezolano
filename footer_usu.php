@@ -5,8 +5,8 @@
 
             <div class="col-md-3">
                 <br/>
-                <p style="color: #4d3ec9;"><strong>Contacta a Nuestra Comunidad</strong></p>
-                <p style="color: #aaa1f4;">Envía tu nombre y una dirección para ponernos en contacto contigo!</p>
+                <p style="color: #FFFFFF;"><strong>Contacta a Nuestra Comunidad</strong></p>
+                <p style="color: #FFFFFF;">Envía tu nombre y una dirección para ponernos en contacto contigo!</p>
                 <form class="navbar-form navbar-right" role="search">
                     <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModalEnv">
                         <span>Enviar Datos</span>
@@ -20,8 +20,8 @@
                     <img src="imagenes\Pag\map.png" width="323.33" height="176.99" class="img-responsive img-rounded center-block">
                     <br/>
                     <div class="carousel-caption">
-                        <h5 class="glyphicon glyphicon-earphone"><strong> Teléfono:</strong> +58-212-4074189</h5>
-                        <h5 class="glyphicon glyphicon-envelope"><strong> Correo:</strong> cicucab.ccs@gmail.com</h5>
+                        <h6 class="glyphicon glyphicon-earphone"><strong> Teléfono:</strong> +58-212-4074189</h6>
+                        <h6 class="glyphicon glyphicon-envelope"><strong> Correo:</strong> cicucab.ccs@gmail.com</h6>
                     </div>
                 </div>
             </div>

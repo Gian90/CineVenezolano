@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <title>Bootstrap Combobox Example</title>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-
-    <link href="bootstrap-3.3.5/dist/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
-
-    <link href="bootstrap-combobox-master/css/bootstrap-combobox.css" media="screen" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="well">
-                <h1>Bootstrap Combobox Example</h1>
-            </div>
-        </div>
-        <div class="row">
-            <h1>Vertical Form</h1>
             <form role="form">
                 <div class="form-group">
                     <label>Turns this</label>
@@ -135,7 +115,6 @@
                     </select>
                 </div>
             </form>
-        </div>
         <div class="row">
             <h1>Horizontal Form</h1>
             <form class="form-horizontal">
@@ -320,17 +299,3 @@
                 </div>
             </form>
         </div>
-    </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="bootstrap-3.3.5/dist/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="bootstrap-combobox-master/js/bootstrap-combobox.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        //<![CDATA[
-        $(document).ready(function() {
-            $('.combobox').combobox()
-        });
-        //]]>
-    </script>
-</body>
-
-</html>
