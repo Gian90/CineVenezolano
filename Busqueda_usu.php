@@ -43,51 +43,60 @@
             <div class="col-md-6 col-sm-6 list-group">
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-3 col-sm-6">
-                            <img alt="http://placehold.it/150x100" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
-                            Cras justo odioCras justo odio
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
+
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/esclavo-de-dios-poster.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Dapibus ac facilisis in
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
+
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/3bellezas.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Morbi leo risus
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
+
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Nena-Salud.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Porta ac consectetur ac
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
+
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/la-casa-del-fin-de-los-tiempos-poster1.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Vestibulum at eros
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
@@ -96,54 +105,60 @@
             <div class="col-md-6 col-sm-6 list-group">
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="http://placehold.it/150x100" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/ladistancia_maslarga-1.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Cras justo odio
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>
-                <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
-                    <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
-                        </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Dapibus ac facilisis in
-                        </div>
 
-                    </div>
-                </a>
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/libertador_xlg.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Morbi leo risus
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
+                    </div>
+                </a>
 
-                    </div>
-                </a>
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/poster-bl-02-pistola-web.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Porta ac consectetur ac
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
+                    </div>
+                </a>
 
-                    </div>
-                </a>
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
-                        <div class=" col-md-6 col-sm-6">
-                            <img alt="araya" src="http://placehold.it/100x150">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Papita_man_tost_n-169646546-large.jpg">
                         </div>
-                        <div class=" col-md-6 col-sm-6">
-                            Vestibulum at eros
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
+                    <div class="row">
+                        <div class=" col-md-3 col-sm-3">
+                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Hermano Poster_Final.jpg">
+                        </div>
+                        <div class=" col-md-9 col-sm-6">
+                          <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
+                          <p style="color: #FFFFFF;">Dapibus ac facilisis in Morbi leo risus Porta ac consectetur acdesvt</p>
                         </div>
                     </div>
                 </a>

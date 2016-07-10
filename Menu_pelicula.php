@@ -29,9 +29,9 @@
     <!--_________________________________________________________________________________________________________________________________-->
 
     <div class="container">
-      <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte
-      superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
-      "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
+    <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte
+    superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
+    "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
         <div class="row nada_marquesina">
             <!--  row primero -->
 
@@ -54,13 +54,11 @@
 
     <div class="container">
         <!-- container segundo -->
-
         <div class="row">
             <!-- segundo row     -->
-
             <div class="col-md-4">
-
-                <img alt="http://placehold.it/150x100" src="http://placehold.it/200x250">
+                <!-- Imagen de pelicula -->
+                <img class="img-responsive" width="75%" height="138" alt="Imagen_pelicula" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
             </div>
 
             <div class="col-md-6">
@@ -147,7 +145,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h3 style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong>Imagen De La Pelicula</strong></h3>
-                <img class="img-responsive" alt="http://placehold.it/150x100" src="http://placehold.it/500x350">
+                <img class="img-responsive" width="100%" height="338" alt="Imagen_pelicula" src="imagenes/Poster/ImgAYR.jpg">
             </div>
 
             <div class="col-md-6">
