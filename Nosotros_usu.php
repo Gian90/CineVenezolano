@@ -28,10 +28,53 @@
 
     <!--_________________________________________________________________________________________________________________________________-->
     <div class="container">
-        <div class="row">
+      <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte 
+      superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
+      "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
+        <div class="row nada_marquesina">
+
+          <!-- Seccion de creditos de la pagina -->
           <div class=" clearfix col-md-6">
+            <div class="panel panel-info" style="background-color:#292F33;">
+                <!-- Seccion de creditos de la pagina -->
+                <div class="panel-body">
+                  <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; El proyecto Script: base de datos del cine venezolano
+                                              es una iniciativa del Centro de Investigación de la Comunicación de la Universidad Católica Andrés Bello, con el apoyo de la
+                                              Fundación Centro Gumilla y el patrocinio de la Asociación Venezolana de Exhibidores de Películas (AVEP). Es un repositorio
+                                              colaborativo que reúne contribuciones de diversas fuentes públicas y privadas, debidamente citadas en el desarrollo de cada
+                                              entrada. Aspira convertirse en una herramienta de conocimiento al servicio de una mayor y mejor comprensión del cine
+                                              venezolano, de sus realidades y riquezas, de sus potencialidades.</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Coordinación del proyecto</strong></p>
+                  <p style="color: #FFFFFF;">Carlos Delgado Flores</p>
+                  <p style="color: #FFFFFF;">Osvaldo Burgos</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Investigación</strong></p>
+                  <p style="color: #FFFFFF;">Manuel Randoli</p>
+                  <p style="color: #FFFFFF;">Mariana Vásquez</p>
+                  <p style="color: #FFFFFF;">David Castillo</p>
+                  <p style="color: #FFFFFF;">Estefanía Giambalvo</p>
+                  <p style="color: #FFFFFF;">Michelle Jiménez</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Diseño gráfico</strong></p>
+                  <p style="color: #FFFFFF;">David Castillo</p>
+                  <p style="color: #FFFFFF;">Juan  Silva</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Programación</strong></p>
+                  <p style="color: #FFFFFF;">Giancarlos Pepino</p>
+                  <p style="color: #FFFFFF;">Juan Silva</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Asistente administrativo</strong></p>
+                  <p style="color: #FFFFFF;">Maurén Rebolledo</p>
+                  <br/>
+                  <p style="color: #FFFFFF;"><strong> Colaboradores</strong></p>
+                  <p style="color: #FFFFFF;">Jesús María Aguirre</p>
+                  <p style="color: #FFFFFF;">Doris Rengel</p>
+                  <p style="color: #FFFFFF;">Abdel Güerere</p>
 
-
+                </div>
+                <!--  "panel-body  -->
+            </div>
           </div>
           <!-- fin de la primera columna col-md-6 -->
 
@@ -42,7 +85,7 @@
                     <font color="#FFFFFF"><strong>¡Equipo CIC!</strong></font>
                 </div>
                 <div class="panel-body">
-                  <img src="imagenes\Pag\SCRIPT(300).png" style="height:150;" class="img-responsive img-rounded">
+                  <img src="imagenes\Pag\Group.jpg" style="height:150;" class="img-responsive img-rounded">
 
                 </div>
                 <!--  "panel-body  -->
@@ -50,25 +93,46 @@
             <!--panel panel-info -->
           </div>
 
-
-
+            <!-- Columna para hacer espacio -->
             <div class=" clearfix col-md-6">
-
-
             </div>
-            <!-- fin de la primera columna col-md-6 -->
+            <!-- fin de la columna col-md-6 -->
 
             <!-- Contenedor del Mapa de Google -->
             <div class=" clearfix col-md-6">
               <!-- Inicio del panel panel-info -->
               <div class="panel panel-info" style="background-color:#292F33;">
                   <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
-                      <font color="#FFFFFF"><strong>¡Donde Estamos!</strong></font>
+                      <font color="#FFFFFF"><strong>¡Dónde Estamos!</strong></font>
                   </div>
                   <!--  Inicio del panel-body  -->
                   <div class="panel-body">
                     <!-- Codigo del Mapa de Google -->
                     <iframe width="100%" height="268" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15693.84792777164!2d-66.9758!3d10.4642!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x43cb2d8100a63708!2sUniversidad+Cat%C3%B3lica+Andr%C3%A9s+Bello!5e0!3m2!1ses!2sve!4v1468088657141" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                  </div>
+                  <!--  Final del panel-body  -->
+              </div>
+              <!-- Final del panel panel-info -->
+            </div>
+
+            <!-- Columna para hacer espacio -->
+            <div class=" clearfix col-md-6">
+            </div>
+            <!-- fin de la columna col-md-6 -->
+
+            <!-- Contenedor de la seccion de contacto-->
+            <div class=" clearfix col-md-6">
+              <!-- Inicio del panel panel-info -->
+              <div class="panel panel-info" style="background-color:#292F33;">
+                  <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
+                      <font color="#FFFFFF"><strong>¡Contáctanos!</strong></font>
+                  </div>
+                  <!--  Inicio del panel-body  -->
+                  <div class="panel-body">
+
+                    <p class="glyphicon glyphicon-earphone" style="color: #FFFFFF;"><strong>Teléfono:</strong> +58-212-4074189&nbsp;&nbsp;</p>
+                    <p class="glyphicon glyphicon-envelope" style="color: #FFFFFF;"><strong>Correo:</strong> cicucab.ccs@gmail.com</p>
 
                   </div>
                   <!--  Final del panel-body  -->

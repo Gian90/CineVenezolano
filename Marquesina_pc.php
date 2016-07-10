@@ -1,4 +1,7 @@
 <div class=" clearfix container">
+  <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte
+  superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
+  "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
     <div id="marque" class="row nada_marquesina">
         <div class="carousel-reviews broun-block hidden-sm-down visible-md visible-lg ">
 

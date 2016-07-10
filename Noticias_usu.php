@@ -28,7 +28,10 @@
 
     <!--_________________________________________________________________________________________________________________________________-->
     <div class="container">
-        <div class="row footer-widgets">
+      <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte
+      superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
+      "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
+        <div class="row footer-widgets  nada_marquesina">
           <script language="javascript" type="text/javascript" src="http://rss.sindicacion.net/view_rss/b2ZjPWZhbHNlJm9meD10cnVl/ZWJiPTI5MkYzMyZlYnQ9RkZGRkZGJmVmYj10cnVlJmVmYz1GRkZGRkYmZWZmPVZlcmRhbmElMkMrQXJpYWwlMkMrc2Fucy1zZXJpZiZlZnM9MyZlZnQ9MTQmZXRiPTI5MkYzMyZldHQ9MjkyRjMzJmV3PTUwMA==/aD1odHRwcyUzQSUyRiUyRm5ld3MuZ29vZ2xlLmNvbSUyRm5ld3MlM0ZxJTNEJTI1MjJjaW5lJTJCdmVuZXpvbGFubyUyNTIyJTJCJTI1N0MlMjU3QyUyQiUyNTIyY25hYyUyNTIyJTI2aGwlM0RlcyUyNmdsJTNEdmUlMjZhdXRodXNlciUzRDAlMjZ1bSUzRDElMjZpZSUzRFVURi04JTI2b3V0cHV0JTNEcnNz"></script><a href="http://rss.sindicacion.net/" style="padding:3px 0px 3px 8px;text-indent:-8px;font:14px Verdana, Arial, sans-serif;color:#FFFFFF;">RSS</a>
             <!-- <div class="col-md-4">
               <script language="javascript" type="text/javascript" src="http://rss.sindicacion.net/view_rss/b2ZkPSZvZm09MjAmb2Z4PXRydWU=/ZWJiPTI5MkYzMyZlYnQ9YWFhMWY0JmVmcz0zJmVmdD0xNCZldGI9MjkyRjMzJmV0dD00ZDNlYzkmZXc9MzAw/aD1odHRwcyUzQSUyRiUyRmNpbmVkZXZlbmV6dWVsYTIwMTEud29yZHByZXNzLmNvbSUyRmZlZWQlMkY="></script>
