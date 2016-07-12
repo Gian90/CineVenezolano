@@ -44,7 +44,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -56,7 +56,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/esclavo-de-dios-poster.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/esclavo-de-dios-poster.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -68,7 +68,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/3bellezas.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/3bellezas.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -80,7 +80,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Nena-Salud.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/Nena-Salud.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -92,7 +92,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/la-casa-del-fin-de-los-tiempos-poster1.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/la-casa-del-fin-de-los-tiempos-poster1.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -106,7 +106,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/ladistancia_maslarga-1.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/ladistancia_maslarga-1.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -118,7 +118,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/libertador_xlg.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/libertador_xlg.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -130,7 +130,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/poster-bl-02-pistola-web.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/poster-bl-02-pistola-web.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -142,7 +142,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Papita_man_tost_n-169646546-large.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/Papita_man_tost_n-169646546-large.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
@@ -154,7 +154,7 @@
                 <a href="Menu_pelicula.php" class="list-group-item" style="background-color:#292F33;">
                     <div class="row">
                         <div class=" col-md-3 col-sm-3">
-                            <img class="img-responsive" width="100%" height="138" alt="araya" src="imagenes/Poster/Hermano Poster_Final.jpg">
+                            <img class="img-responsive" width="100%" height="138" alt="Foto" src="imagenes/Poster/Hermano Poster_Final.jpg">
                         </div>
                         <div class=" col-md-9 col-sm-6">
                           <p style="color: #FFFFFF;"><strong>Titulo</strong></p>
