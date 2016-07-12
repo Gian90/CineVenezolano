@@ -37,7 +37,7 @@
                             <a href="#" class="glyphicon glyphicon-user" data-toggle="modal" data-target="#myModalLog"> Entra</a>
                         </li>
                         <li>
-                            <a href="#" class="glyphicon glyphicon-th-list" data-toggle="modal" data-target="#myModalReg"> Registrate</a>
+                            <a href="#" class="glyphicon glyphicon-th-list" data-toggle="modal" data-target="#gridSystemModal"> Registrate</a>
                         </li>
                     </ul>
                     <!-- Barra de navegacion

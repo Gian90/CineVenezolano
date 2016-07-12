@@ -16,7 +16,7 @@
                     </div>
                     <div id="collapse1" class="panel-collapse collapse" style="background-color:#292F33;">
                         <div class="panel-body">
-                            <a href="http://librosweb.es/libro/xhtml/capitulo_2/etiquetas_y_atributos.html" target="_blank" style="color:#FFFFFF;">Mauren Pepa Martinita</a>
+                            <a href="#" data-toggle="modal" data-target="#gridSystemModalDir" style="color:#FFFFFF;">Mauren Pepa Martinita</a>
                             <br/>
                         </div>
                     </div>
@@ -60,7 +60,6 @@
                     </div>
                 </div>
             </div>
-
 
         </div>
     </div>

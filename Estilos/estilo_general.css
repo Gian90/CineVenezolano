@@ -26,9 +26,7 @@ header nav ul li {
     float: left;
 }
 
-/*Menu pegajoso*/
-
-
+/*Menu pegajoso. Esta parte se encarga del header. le da el estilo necesario para q se pegue arriba*/
 
 .menu-fixed {
     position: fixed;

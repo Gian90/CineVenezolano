@@ -7,11 +7,6 @@
                 <br/>
                 <p style="color: #FFFFFF;"><strong>Contacta a Nuestra Comunidad</strong></p>
                 <p style="color: #FFFFFF;">Envía tu nombre y una dirección para ponernos en contacto contigo!</p>
-                <form class="navbar-form navbar-right" role="search">
-                    <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModalEnv">
-                        <span>Enviar Datos</span>
-                    </button>
-                </form>
             </div>
 
             <div class="col-md-4">
