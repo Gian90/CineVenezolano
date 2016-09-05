@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <?php include("header_adm.php"); ?>
-            <?php include("Modales.php"); ?>
+            <?php include("Modales_adm.php"); ?>
         </div>
         <!--  row primero -->
     </div>
@@ -34,7 +34,7 @@
         <div class="row nada_marquesina">
 
           <!-- Seccion de creditos de la pagina -->
-          <div class=" clearfix col-md-4">
+          <div class=" clearfix col-md-3">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong>TABLAS</strong></font>
@@ -70,59 +70,66 @@
           <!-- fin de la primera columna col-md-6 -->
 
           <!-- Foto Del Equipo -->
-          <div class=" clearfix col-md-8">
+          <div class=" clearfix col-md-9">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong>TABLA SELECCIONADA</strong></font>
                 </div>
                 <div class="panel-body">
-                  <table class="table table-bordered">
-                    <thead>
-                      <tr>
-                        <th><font color="#FFFFFF"><strong>#</strong></font></th>
-
-                        <th><font color="#FFFFFF"><strong>Atributo1</strong></font></th>
-                        <th><font color="#FFFFFF"><strong>Atributo2</strong></font></th>
-                        <th><font color="#FFFFFF"><strong>Atributo3</strong></font></th>
-                        <th><font color="#FFFFFF"><strong>Opcion</strong></font></th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr>
-                        <th scope="row"><font color="#FFFFFF"><strong>1</strong></font></th>
-
-                        <td><font color="#FFFFFF">Campo1</font></td>
-                        <td><font color="#FFFFFF">Campo2</font></td>
-                        <td><font color="#FFFFFF">Campo3</font></td>
-                        <td><font color="#FFFFFF"></font></td>
-                      </tr>
-                      <tr>
-                        <th scope="row"><font color="#FFFFFF"><strong>2</strong></font></th>
-
-                        <td><font color="#FFFFFF">Campo1</font></td>
-                        <td><font color="#FFFFFF">Campo2</font></td>
-                        <td><font color="#FFFFFF">Campo3</font></td>
-                        <td><font color="#FFFFFF"></font></td>
-                      </tr>
-                      <tr>
-                        <th scope="row"><font color="#FFFFFF"><strong>3</strong></font></th>
-
-                        <td><font color="#FFFFFF">Campo1</font></td>
-                        <td><font color="#FFFFFF">Campo2</font></td>
-                        <td><font color="#FFFFFF">Campo3</font></td>
-                        <td><font color="#FFFFFF"></font></td>
-                      </tr>
-                      <tr>
-                        <th scope="row"><font color="#FFFFFF"><strong>4</strong></font></th>
-
-                        <td><font color="#FFFFFF">Campo1</font></td>
-                        <td><font color="#FFFFFF">Campo2</font></td>
-                        <td><font color="#FFFFFF">Campo3</font></td>
-                        <td><font color="#FFFFFF"></font></td>
-                      </tr>
-                    </tbody>
-                  </table>
-
+                  <div class="col-md-8 col-md-offset-4">
+                      <img class="img-responsive img-circle" width="30%" height="30%" alt="Imagen_pelicula" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
+                  </div>
+                  <div class="row">
+                    <div class="col-md-4">
+                      <label for="recipient-name" class="control-label" style="color: #FFFFFF;"><strong>Primer Nombre*</strong></label>
+                      <input type="text" class="form-control" id="recipient-name1" placeholder="Primer Nombre">
+                    </div>
+                    <div class="col-md-4">
+                      <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Segundo Nombre</label>
+                      <input type="text" class="form-control" id="recipient-name2"  placeholder="Segundo Nombre">
+                    </div>
+                    <div class="col-md-4">
+                      <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Primer Apellido*</label>
+                      <input type="text" class="form-control" id="recipient-ape1"  placeholder="Primer Apellido">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-4">
+                      <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Segundo Apellido</label>
+                      <input type="text" class="form-control" id="recipient-ape2"  placeholder="Segundo Apellido">
+                    </div>
+                      <div class="col-md-4">
+                          <label for="ejemplo_password_1" style="color: #FFFFFF;">Contraseña</label>
+                          <input type="password" class="form-control" id="recipient-pass" placeholder="Contraseña">
+                      </div>
+                      <div class="col-md-4">
+                          <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Correo Electrónico</label>
+                          <input type="text" class="form-control" id="recipient-email"  placeholder="Correo">
+                      </div>
+                   </div>
+                   <div class="row">
+                      <div class="col-md-4">
+                          <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Sexo</label>
+                          <input type="text" class="form-control" id="recipient-email"  placeholder="Sexo">
+                      </div>
+                      <div class="col-md-4">
+                          <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Fecha de nacimiento</label>
+                          <input type="text" class="form-control" id="recipient-email"  placeholder="Fecha de nacimiento">
+                      </div>
+                      <div class="col-md-4">
+                          <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Fecha de Fallecimiento</label>
+                          <input type="text" class="form-control" id="recipient-email"  placeholder="Fecha de Fallecimiento">
+                      </div>
+                   </div>
+                   <div class="row">
+                      <div class="col-md-12">
+                          <label for="recipient-name" class="control-label" style="color: #FFFFFF;">Biografía</label>
+                          <textarea class="form-control" rows="3"  placeholder="Biografía"></textarea>
+                      </div>
+                  </div>
+                  <br/>
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Enviar</button>
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
                 </div>
                 <!--  "panel-body  -->
             </div>

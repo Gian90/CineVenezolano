@@ -34,7 +34,7 @@
         <div class="row nada_marquesina">
 
           <!-- Seccion de creditos de la pagina -->
-          <div class=" clearfix col-md-4">
+          <div class=" clearfix col-md-3">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong>TABLAS</strong></font>
@@ -70,13 +70,13 @@
           <!-- fin de la primera columna col-md-6 -->
 
           <!-- Foto Del Equipo -->
-          <div class=" clearfix col-md-8">
+          <div class=" clearfix col-md-9">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong>TABLA SELECCIONADA</strong></font>
                     <ul class="btn btn-default" type="button" aria-hidden="true">
                       <li>
-                          <a href="#" class="glyphicon glyphicon-save" data-toggle="modal" data-target="#ModificarCampo"> &nbsp;Agregar</a>
+                          <a href="Agregar_adm.php" class="glyphicon glyphicon-save"> &nbsp;Agregar</a>
                       </li>
                     </ul>
                     <ul class="btn btn-default" type="button" aria-hidden="true">
@@ -85,6 +85,7 @@
                       </li>
                     </ul>
                 </div>
+
                 <div class="panel-body">
                   <table class="table table-bordered">
                     <thead>

@@ -143,8 +143,10 @@
             </div>
             <div class="modal-body">
                 <div class="container-fluid bd-example-row">
+                    <div class="col-md-8 col-md-offset-4">
+                        <img class="img-responsive img-circle" width="30%" height="30%" alt="Imagen_pelicula" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
+                    </div>
                     <div class="row">
-                      <img class="img-responsive img-circle" width="30%" height="30%" alt="Imagen_pelicula" src="imagenes/Poster/azul_y_no_tan_rosa-cartel-5478.jpg">
                       <div class="col-md-4">
                         <label for="recipient-name" class="control-label" style="color: #FFFFFF;"><strong>Primer Nombre*</strong></label>
                         <input type="text" class="form-control" id="recipient-name1" placeholder="Primer Nombre" disabled>

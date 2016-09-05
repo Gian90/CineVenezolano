@@ -34,7 +34,7 @@
         <div class="row nada_marquesina">
 
           <!-- Seccion de creditos de la pagina -->
-          <div class=" clearfix col-md-4">
+          <div class=" clearfix col-md-3">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong>TABLAS DE LA BASE DE DATOS</strong></font>
@@ -70,7 +70,7 @@
           <!-- fin de la primera columna col-md-6 -->
 
           <!-- Foto Del Equipo -->
-          <div class=" clearfix col-md-8">
+          <div class=" clearfix col-md-9">
             <div class="panel panel-info" style="background-color:#292F33;">
                 <div style="background-color:#292F33; background-image:initial;" class="panel-heading">
                     <font color="#FFFFFF"><strong></strong></font>
