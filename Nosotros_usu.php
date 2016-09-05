@@ -13,7 +13,7 @@
                 <a href="https://twitter.com/cic_ucab" target="_blank" class="icon-twitter"></a>
             </li>
             <li>
-                <a href="mailto:contacto@falconmasters.com" class="icon-youtube"></a>
+                <a href="https://www.youtube.com/channel/UCvNZ-Y0l7OWwKAx0DdDQj7A/videos?sort=dd&view=0&shelf_id=0" target="_blank" class="icon-youtube"></a>
             </li>
         </ul>
     </div>
@@ -28,7 +28,7 @@
 
     <!--_________________________________________________________________________________________________________________________________-->
     <div class="container">
-      <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte 
+      <!-- "nada_marquesina" es una clase q actua al momento de que la barra del header se pega a la parte
       superior de la ventana, cuando se hace scroll hacia abajo, ella evita q la pagina se mueva en un salto para reemplazar al header q se esta moviendo.
       "nada_marquesina" esta en todas las paginas del proyecto y es llamada y usada en el archivo Main.js de la carpeta javascript-->
         <div class="row nada_marquesina">
@@ -38,39 +38,39 @@
             <div class="panel panel-info" style="background-color:#292F33;">
                 <!-- Seccion de creditos de la pagina -->
                 <div class="panel-body">
-                  <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; El proyecto Script: base de datos del cine venezolano
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; El proyecto Script: base de datos del cine venezolano
                                               es una iniciativa del Centro de Investigación de la Comunicación de la Universidad Católica Andrés Bello, con el apoyo de la
                                               Fundación Centro Gumilla y el patrocinio de la Asociación Venezolana de Exhibidores de Películas (AVEP). Es un repositorio
                                               colaborativo que reúne contribuciones de diversas fuentes públicas y privadas, debidamente citadas en el desarrollo de cada
                                               entrada. Aspira convertirse en una herramienta de conocimiento al servicio de una mayor y mejor comprensión del cine
                                               venezolano, de sus realidades y riquezas, de sus potencialidades.</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Coordinación del proyecto</strong></p>
-                  <p style="color: #FFFFFF;">Carlos Delgado Flores</p>
-                  <p style="color: #FFFFFF;">Osvaldo Burgos</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Coordinación del proyecto</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Carlos Delgado Flores</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Osvaldo Burgos</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Investigación</strong></p>
-                  <p style="color: #FFFFFF;">Manuel Randoli</p>
-                  <p style="color: #FFFFFF;">Mariana Vásquez</p>
-                  <p style="color: #FFFFFF;">David Castillo</p>
-                  <p style="color: #FFFFFF;">Estefanía Giambalvo</p>
-                  <p style="color: #FFFFFF;">Michelle Jiménez</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Investigación</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Manuel Randoli</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Mariana Vásquez</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">David Castillo</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Estefanía Giambalvo</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Michelle Jiménez</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Diseño gráfico</strong></p>
-                  <p style="color: #FFFFFF;">David Castillo</p>
-                  <p style="color: #FFFFFF;">Juan  Silva</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Diseño gráfico</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">David Castillo</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Juan Silva</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Programación</strong></p>
-                  <p style="color: #FFFFFF;">Giancarlos Pepino</p>
-                  <p style="color: #FFFFFF;">Juan Silva</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Programación</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Giancarlos Pepino</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Juan Silva</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Asistente administrativo</strong></p>
-                  <p style="color: #FFFFFF;">Maurén Rebolledo</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Asistente administrativo</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Maurén Rebolledo</p>
                   <br/>
-                  <p style="color: #FFFFFF;"><strong> Colaboradores</strong></p>
-                  <p style="color: #FFFFFF;">Jesús María Aguirre</p>
-                  <p style="color: #FFFFFF;">Doris Rengel</p>
-                  <p style="color: #FFFFFF;">Abdel Güerere</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong> Colaboradores</strong></p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Jesús María Aguirre</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Doris Rengel</p>
+                  <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em">Abdel Güerere</p>
 
                 </div>
                 <!--  "panel-body  -->
@@ -131,8 +131,8 @@
                   <!--  Inicio del panel-body  -->
                   <div class="panel-body">
 
-                    <p class="glyphicon glyphicon-earphone" style="color: #FFFFFF;"><strong>Teléfono:</strong> +58-212-4074189&nbsp;&nbsp;</p>
-                    <p class="glyphicon glyphicon-envelope" style="color: #FFFFFF;"><strong>Correo:</strong> cicucab.ccs@gmail.com</p>
+                    <p class="glyphicon glyphicon-earphone" style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong>Teléfono:</strong> +58-212-4074189&nbsp;&nbsp;</p>
+                    <p class="glyphicon glyphicon-envelope" style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong>Correo:</strong> cicucab.ccs@gmail.com</p>
 
                   </div>
                   <!--  Final del panel-body  -->

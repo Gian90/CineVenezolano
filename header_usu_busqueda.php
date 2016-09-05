@@ -18,7 +18,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand glyphicon glyphicon-home" href="Index.php"></a>
+                    <a class="navbar-brand glyphicon glyphicon-home" href="Index_usu.php"></a>
                 </div>
 
                 <!--INICIA EL MENU HEADER  -->
@@ -32,7 +32,7 @@
                         <li><a href="Nosotros_usu.php">Nosotros</a></li>
                     </ul>
 
-                    <!-- Botones de registro y loging -->
+                    <!-- Botones de registro y loging
                     <ul class="nav navbar-nav navbar-right">
                         <li>
                             <a href="#" class="glyphicon glyphicon-user" data-toggle="modal" data-target="#myModalLog"> Entra</a>
@@ -40,7 +40,7 @@
                         <li>
                             <a href="#" class="glyphicon glyphicon-th-list" data-toggle="modal" data-target="#myModalReg"> Registrate</a>
                         </li>
-                    </ul>
+                    </ul> -->
 
                 </div>
             </nav>

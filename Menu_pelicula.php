@@ -13,7 +13,7 @@
                 <a href="https://twitter.com/cic_ucab" target="_blank" class="icon-twitter"></a>
             </li>
             <li>
-                <a href="mailto:contacto@falconmasters.com" class="icon-youtube"></a>
+                <a href="https://www.youtube.com/channel/UCvNZ-Y0l7OWwKAx0DdDQj7A/videos?sort=dd&view=0&shelf_id=0" target="_blank" class="icon-youtube"></a>
             </li>
         </ul>
     </div>
@@ -36,7 +36,7 @@
             <!--  row primero -->
 
             <div class=" col-md-4 col-md-offset-4">
-                <h3 style="color: #FFFFFF;"><strong>TITULO PELICULA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><button type="submit" class="btn btn-primary">Editar</button></h3>
+              <h3 style="color: #FFFFFF;"><strong>TITULO PELICULA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>  <!-- <button type="submit" class="btn btn-primary">Editar</button> --></h3>
             </div>
 
         </div>
@@ -57,21 +57,15 @@
             <div class="col-md-6">
                 <div class="row">
 
-                    <div class="col-md-2  col-md-offset-1">
-                        <h3 style="color: #FFFFFF;">Sinopsis</h3>
-                    </div>
-
-                </div>
-
-                <div class="row">
-
                     <div class="col-md-12 panel panel-info" style="background-color:#292F33;">
                         <div class="panel-body">
-                            <p style="color: #FFFFFF;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la
+                            <h3 style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sinopsis</h3>
+                            <br/>
+                            <p style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la
                                 peliculaDescripcion de la pelicula Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion
                                 de la pelicula Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la pelicula
                                 Descripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la peliculaDescripcion de la pelicula</p>
-                            <button type="submit" class="btn btn-primary">Editar</button>
+                            <!-- <button type="submit" class="btn btn-primary">Editar</button> -->
                         </div>
                     </div>
 
@@ -96,6 +90,8 @@
                 <div class="panel-body">
                     <h3 style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong>Imagen De La Pelicula</strong></h3>
                     <img class="img-responsive" width="100%" height="338" alt="Imagen_pelicula" src="imagenes/Poster/ImgAYR.jpg">
+                    <br/>
+                    <!-- <button type="submit" class="btn btn-primary">Editar</button> -->
                 </div>
 
             </div>
@@ -103,8 +99,10 @@
             <div class="col-md-6 panel panel-info" style="background-color:#292F33;">
 
                 <div class="panel-body">
-                    <h3 style="color: #FFFFFF;"><strong>Trailer De La Pelicula</strong></h3>
+                    <h3 style="color: #FFFFFF; text-shadow: black 0.1em 0.1em 0.2em"><strong>Trailer De La Pelicula</strong></h3>
                     <iframe width="100%" height="284" src="http://www.youtube.com/embed/KgMt0dtr4Vc" frameborder="0" allowfullscreen></iframe>
+                    <br/>
+                    <!-- <button type="submit" class="btn btn-primary">Editar</button> -->
                 </div>
 
             </div>

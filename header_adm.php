@@ -17,7 +17,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand glyphicon glyphicon-home" href="Index_usu.php"></a>
+                    <a class="navbar-brand glyphicon glyphicon-home" href="Index_adm.php"></a>
                 </div>
 
                 <!--INICIA EL MENU HEADER  -->
@@ -26,9 +26,8 @@
                 <!-- Botones de la barra de busqueda -->
                 <div class="collapse navbar-collapse" id="BarraDeNavegacion">
                     <ul class="nav navbar-nav">
-                        <li><a href="Busqueda_usu.php">Buscador</a></li>
-                        <li><a href="Noticias_usu.php">Noticias</a></li>
-                        <li><a href="Nosotros_usu.php">Nosotros</a></li>
+                        <li><a href="Agregar_adm.php">Agregar</a></li>
+                        <li><a href="Consultar_adm.php">Consultar</a></li>
                     </ul>
 
                     <!-- Botones de registro y loging
